@@ -145,6 +145,13 @@
   {{ partial "vendor.html" . }}
   {{/* Analytics */}}
   {{ partial "analytics.html" . }}
+  {{/* Declare alternates */}}
+  {{- if .IsTranslated -}}
+    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+    {{- range .Translations -}}
+      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}" />
+    {{- end -}}
+  {{- end -}}
   {{/* Extend head - eg. for custom analytics scripts, etc. */}}
   {{ if templates.Exists "_partials/extend-head.html" }}
     {{ partial "extend-head.html" . }}
