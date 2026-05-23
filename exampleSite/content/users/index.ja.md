@@ -43,7 +43,6 @@ Congoを使用して構築された実際のウェブサイト。
 | [kpavlov.me](https://kpavlov.me)                                 | Personal site and Blog                       |
 | [pfisterer.dev](https://pfisterer.dev)                           | Personal site and Blog                       |
 | [davidrothera.me](https://davidrothera.me)                       | Personal site and Blog                       |
-| [sathyabh.at](https://sathyabh.at)                               | Personal Site and Blog                       |
 | [leonidasv.com](https://leonidasv.com/)                          | Personal site and Blog                       |
 | [andrew-jones.com](https://andrew-jones.com/)                    | Personal site and tech blog                  |
 | [nikita.computer](https://nikita.computer/)                      | Personal site and tech blog                  |
@@ -65,7 +64,6 @@ Congoを使用して構築された実際のウェブサイト。
 | [noamlerner.com](https://noamlerner.com/)                        | Personal blog (English/Hebrew)               |
 | [jneidel.com](https://jneidel.com)                               | Personal site and blog                       |
 | [clementfouque.com](https://clementfouque.com)                   | Personal Site and Tech Blog                  |
-| [chenyu.blog](https://chenyu.blog)                               | Personal site and blog                       |
 | [g-snipes.github.io](https://g-snipes.github.io./)               | Personal site and Music/Tech blog            |
 | [aimtune.dev](https://aimtune.dev/)                              | Personal blog (Turkish/English)              |
 | [socrabytes.github.io](https://socrabytes.github.io)             | Personal site and Tech Blog                  |
@@ -75,12 +73,13 @@ Congoを使用して構築された実際のウェブサイト。
 | [Rwhither's Blog](https://blog.sky123.top)                       | Personal site and blog                       |
 | [wendyliga.com](https://wendyliga.com)                           | Personal Site and Blog                       |
 | [bitingbytes.de](https://bitingbytes.de)                         | Personal Site and Blog                       |
-| [janela.digital](https://janela.digital/)                        | Personal Blog (in Portuguese)                |
 | [leavex.eu](https://leavex.eu)                                   | Leave X Campaign Site                        |
 | [cmp1315.com](https://cmp1315.com/)                              | Site for medical center                      |
 | [Yan Dong](https://www.yandong.xyz/en/)                          | Personal Site (Chinese/English)              |
 | [reliable.codes](https://reliable.codes/)                        | Professional site (programming)              |
 | [softwarewitchcraft.com](https://softwarewitchcraft.com/)        | Personal Blog                                |
 | [OrO-c的博客](https://blog.oroc.top)                             | Personal site and Literary blog (in Chinese) |
+| [probablyalex.com](https://probablyalex.com)                     | Personal Site and Debate/Tech Blog           |
+| [ebourgess.dev](https://ebourgess.dev)                           | Personal Site and Blog                       |
 
 **Congoを使っていますか？** あなたのウェブサイトを加えるために[Pull Request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users/index.md)を投げてください。
