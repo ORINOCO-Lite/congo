@@ -13,6 +13,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Changed
 
 - Upgrade to KaTeX v0.16.28 ([#1140](https://github.com/jpanther/congo/pull/1140))
+- Upgrade to Mermaid v11.12.3 ([#1148](https://github.com/jpanther/congo/pull/1148))
+- Upgrade to KaTeX v0.17.0 ([#1159](https://github.com/jpanther/congo/pull/1159))
+
+### Fixed
+
+- Author warning preventing sites from building ([#1165](https://github.com/jpanther/congo/pull/1165))
 
 ## [2.13.0] - 2026-01-20
 
