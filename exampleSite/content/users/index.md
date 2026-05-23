@@ -43,6 +43,7 @@ The list below is just a handful of the websites that are built using the Congo 
 | [kpavlov.me](https://kpavlov.me)                                 | Personal site and Blog                       |
 | [pfisterer.dev](https://pfisterer.dev)                           | Personal site and Blog                       |
 | [davidrothera.me](https://davidrothera.me)                       | Personal site and Blog                       |
+| [ebourgess.dev](https://ebourgess.dev)                           | Personal Site and Blog                       |
 | [sathyabh.at](https://sathyabh.at)                               | Personal Site and Blog                       |
 | [leonidasv.com](https://leonidasv.com/)                          | Personal site and Blog                       |
 | [andrew-jones.com](https://andrew-jones.com/)                    | Personal site and tech blog                  |
