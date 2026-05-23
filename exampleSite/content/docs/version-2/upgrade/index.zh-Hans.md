@@ -94,29 +94,6 @@ htmlCode = "en"
 weight = 1
 rtl = false
 
-# Language-specific parameters go here
-```
-
-### Languages.toml
-
-为了提供多语言支持，特定于语言的主题参数已移至新的配置文件 `languages.[lang-code].toml`。主题附带一个模板文件 `languages.en.toml`，可作为参考。
-
-{{< alert >}}
-如果您不需要多语言支持，此步骤是可选的，但现在完成它将使未来的主题升级更容易。
-{{< /alert >}}
-
-语言配置文件遵循以下结构：
-
-```toml
-# config/_default/languagues.en.toml
-
-locale = "en"
-label = "English"
-displayName = "EN"
-htmlCode = "en"
-weight = 1
-rtl = false
-
 # 此处放置特定于语言的参数
 ```
 
