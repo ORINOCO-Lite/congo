@@ -13,12 +13,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Changed
 
+- ⚠️ Required Hugo version is now 0.158.0 or later
 - Upgrade to KaTeX v0.16.28 ([#1140](https://github.com/jpanther/congo/pull/1140))
 - Upgrade to Mermaid v11.15.0 ([#1148](https://github.com/jpanther/congo/pull/1148), [#1167](https://github.com/jpanther/congo/pull/1167))
 - Upgrade to KaTeX v0.17.0 ([#1159](https://github.com/jpanther/congo/pull/1159))
 
 ### Fixed
 
+- Warnings related to deprecated Language parameters ([#1162](https://github.com/jpanther/congo/pull/1162))
 - Author warning preventing sites from building ([#1165](https://github.com/jpanther/congo/pull/1165))
 
 ## [2.13.0] - 2026-01-20

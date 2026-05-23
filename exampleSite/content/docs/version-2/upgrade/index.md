@@ -13,7 +13,7 @@ That said, there are some changes that require adjustments to existing sites tha
 ## Step 1: Upgrade Hugo
 
 {{< alert >}}
-Congo 2.0 requires a minimum of **Hugo v0.87.0 or later**
+Congo 2.0 requires a minimum of **Hugo v0.158.0 or later**
 {{< /alert >}}
 
 Congo is built to take advantage of some of the latest Hugo features. You should regularly keep your Hugo installation up to date to avoid any issues.
@@ -87,8 +87,8 @@ The languages config file follows this structure:
 ```toml
 # config/_default/languagues.en.toml
 
-languageCode = "en"
-languageName = "English"
+locale = "en"
+label = "English"
 displayName = "EN"
 htmlCode = "en"
 weight = 1
