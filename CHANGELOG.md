@@ -9,11 +9,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Added
 
 - Hindi and Gujarati translations ([#1093](https://github.com/jpanther/congo/pull/1093))
+- Alternate languages are now declared on translated pages ([#1151](https://github.com/jpanther/congo/pull/1151))
 
 ### Changed
 
 - Upgrade to KaTeX v0.16.28 ([#1140](https://github.com/jpanther/congo/pull/1140))
-- Upgrade to Mermaid v11.12.3 ([#1148](https://github.com/jpanther/congo/pull/1148))
+- Upgrade to Mermaid v11.15.0 ([#1148](https://github.com/jpanther/congo/pull/1148), [#1167](https://github.com/jpanther/congo/pull/1167))
 - Upgrade to KaTeX v0.17.0 ([#1159](https://github.com/jpanther/congo/pull/1159))
 
 ### Fixed
