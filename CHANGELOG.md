@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Fixed
 
 - Taxonomies are not rendered when they are the only article meta option enabled ([#1158](https://github.com/jpanther/congo/issues/1158))
+- Pagination would fail when pagination width is a float value ([#1161](https://github.com/jpanther/congo/issues/1161))
 - Warnings related to deprecated Language parameters ([#1162](https://github.com/jpanther/congo/pull/1162))
 - Author warning preventing sites from building ([#1165](https://github.com/jpanther/congo/pull/1165))
 
